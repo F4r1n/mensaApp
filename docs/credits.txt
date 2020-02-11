@@ -1,0 +1,8 @@
+Geolocation implemenetation was taken from sample in lesson slides.
+Notification, Geolocation and other documentation for WEB API was taken from https://developer.mozilla.org/en-US/
+Implementation for Firebase with React is inspired by: https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial#sign-up-with-react-and-firebase (adjusted to fit the code- and visual style of our App)
+Push Notifications Tutorial https://medium.com/@seladir/how-to-implement-web-push-notifications-in-your-node-react-app-9bed79b53f34
+
+Components were taken from: https://material-ui.com/
+
+Script that was used for initial app setup: https://github.com/facebook/create-react-app

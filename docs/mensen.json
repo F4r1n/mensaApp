@@ -1,0 +1,254 @@
+[
+  {
+    "id": 51,
+    "name": "Mensa HfM Charlottenstraße",
+    "city": "Berlin",
+    "address": "Charlottenstraße 55, 10117 Berlin",
+    "coordinates": [52.51357, 13.39104]
+  },
+  {
+    "id": 814,
+    "name": "Mensa HfM „Neuer Marstall“",
+    "city": "Berlin",
+    "address": "Schlossplatz 7, 10718 Berlin",
+    "coordinates": [52.516601, 13.4035215]
+  },
+  {
+    "id": 43,
+    "name": "Mensa HU Süd",
+    "city": "Berlin",
+    "address": "Unter den Linden 6, 10117 Berlin",
+    "coordinates": [52.5184210453008, 13.3928918838501]
+  },
+  {
+    "id": 37,
+    "name": "Mensa HU Spandauer Straße",
+    "city": "Berlin",
+    "address": "Spandauer Straße 1, 10178 Berlin",
+    "coordinates": [52.5209593, 13.4030792]
+  },
+  {
+    "id": 808,
+    "name": "Coffeebar HU „Jacob und Wilhelm Grimm Zentrum“",
+    "city": "Berlin",
+    "address": "Geschwister-Scholl-Str. 1, Jacob-und-Wilhelm-Grimm-Zentrum",
+    "coordinates": [52.5203826, 13.3902988]
+  },
+  {
+    "id": 48,
+    "name": "Mensa HU Nord",
+    "city": "Berlin",
+    "address": "Hannoversche Straße 7, 10115 Berlin",
+    "coordinates": [52.5281801653541, 13.3821308612823]
+  },
+  {
+    "id": 874,
+    "name": "Mensa HfS \"Ernst Busch\"",
+    "city": "Berlin",
+    "address": "Zinnowitzer Straße 11, 10115 Berlin",
+    "coordinates": [52.5325083, 13.3830262]
+  },
+  {
+    "id": 19,
+    "name": "Mensa Beuth Hochschule für Technik Kurfürstenstraße",
+    "city": "Berlin",
+    "address": "Kurfürstenstraße 141, 10785 Berlin",
+    "coordinates": [52.5005226051674, 13.3593320846558]
+  },
+  {
+    "id": 815,
+    "name": "Mensa TU Ackerstraße",
+    "city": "Berlin",
+    "address": "Ackerstraße 71 - 76, 13355 Berlin",
+    "coordinates": [52.5389492, 13.3849528]
+  },
+  {
+    "id": 820,
+    "name": "Mensa UdK Lietzenburger Straße",
+    "city": "Berlin",
+    "address": "Lietzenburger Straße 45, 10789 Berlin",
+    "coordinates": [52.499864, 13.3329041]
+  },
+  {
+    "id": 49,
+    "name": "Mensa Beuth Hochschule für Technik Luxemburger Straße",
+    "city": "Berlin",
+    "address": "Luxemburger Straße 9, 13353 Berlin",
+    "coordinates": [52.5445014448455, 13.3549761772156]
+  },
+  {
+    "id": 806,
+    "name": "Coffeebar der Mensa TU Hauptgebäude „Wetterleuchten“",
+    "city": "Berlin",
+    "address": "Straße des 17. Juni 135, 10623 Berlin",
+    "coordinates": [52.5123476, 13.3270148]
+  },
+  {
+    "id": 29,
+    "name": "Mensa HWR Badensche Straße",
+    "city": "Berlin",
+    "address": "Badensche Str. 51, 10825 Berlin",
+    "coordinates": [52.48551, 13.33823]
+  },
+  {
+    "id": 36,
+    "name": "Mensa TU Hardenbergstraße",
+    "city": "Berlin",
+    "address": "Hardenbergstraße 34, 10623 Berlin",
+    "coordinates": [52.5097208716561, 13.3261853456497]
+  },
+  {
+    "id": 875,
+    "name": "Mensa Veggie 2.0 - Die tiefgrüne Mensa",
+    "city": "Berlin",
+    "address": "Hardenbergstraße 34, 10623 Berlin",
+    "coordinates": [52.5097717, 13.3259679]
+  },
+  {
+    "id": 816,
+    "name": "Mensa TU Architektur",
+    "city": "Berlin",
+    "address": "Straße des 17. Juni 152, 10623 Berlin",
+    "coordinates": [52.5158193, 13.324281]
+  },
+  {
+    "id": 817,
+    "name": "Mensa TU Marchstraße",
+    "city": "Berlin",
+    "address": "Marchstraße 23, 10587 Berlin",
+    "coordinates": [52.5165872, 13.3235999]
+  },
+  {
+    "id": 819,
+    "name": "Mensa UdK „Jazz-Mensa“",
+    "city": "Berlin",
+    "address": "Einsteinufer 43 - 53, 10587 Berlin",
+    "coordinates": [52.51723, 13.32265]
+  },
+  {
+    "id": 818,
+    "name": "Mensa TU „Skyline“",
+    "city": "Berlin",
+    "address": "Ernst-Reuter-Platz 7, 10587 Berlin",
+    "coordinates": [52.5130043, 13.3200177]
+  },
+  {
+    "id": 40,
+    "name": "Mensa KHS Weißensee",
+    "city": "Berlin",
+    "address": "Bühringstraße 20, 13086 Berlin",
+    "coordinates": [52.5579816, 13.4393295]
+  },
+  {
+    "id": 809,
+    "name": "Mensa Charité Zahnklinik",
+    "city": "Berlin",
+    "address": "Aßmannshauser Str. 2-6, 14197 Berlin",
+    "coordinates": [52.478, 13.31223]
+  },
+  {
+    "id": 812,
+    "name": "Mensa FU Pharmazie",
+    "city": "Berlin",
+    "address": "Königin-Luise-Str. 2, 14195 Berlin",
+    "coordinates": [52.45864, 13.30593]
+  },
+  {
+    "id": 579,
+    "name": "Coffeebar HWR Alt-Friedrichsfelde",
+    "city": "Berlin",
+    "address": "Alt-Friedrichsfelde 60, 10315 Berlin",
+    "coordinates": [52.5079485, 13.5263790519172]
+  },
+  {
+    "id": 30,
+    "name": "Mensa HTW Treskowallee",
+    "city": "Berlin",
+    "address": "Treskowallee 8, 10318 Berlin",
+    "coordinates": [52.4931221056714, 13.5258704423904]
+  },
+  {
+    "id": 811,
+    "name": "Mensa FU Koserstraße",
+    "city": "Berlin",
+    "address": "Koserstraße 20, 14195 Berlin",
+    "coordinates": [52.46133, 13.29451]
+  },
+  {
+    "id": 54,
+    "name": "Mensa Katholische HS für Sozialwesen",
+    "city": "Berlin",
+    "address": "Köpenicker Allee 39 - 57, 10318 Berlin",
+    "coordinates": [52.4884585, 13.5333438]
+  },
+  {
+    "id": 52,
+    "name": "Mensa FU Lankwitz Malteserstraße",
+    "city": "Berlin",
+    "address": "Malteser Straße 74, 12249 Berlin",
+    "coordinates": [52.425427864151, 13.3573579788208]
+  },
+  {
+    "id": 27,
+    "name": "Mensa FU II Otto-von-Simson-Straße",
+    "city": "Berlin",
+    "address": "Otto-von-Simson-Straße 26, 14195 Berlin",
+    "coordinates": [52.4529103498954, 13.2886826992035]
+  },
+  {
+    "id": 24,
+    "name": "Mensa HTW Wilhelminenhof",
+    "city": "Berlin",
+    "address": "Wilhelminenhofstraße 75 A, 12459 Berlin",
+    "coordinates": [52.4556105829113, 13.5245776176453]
+  },
+  {
+    "id": 813,
+    "name": "Mensa FU Rechtswissenschaft",
+    "city": "Berlin",
+    "address": "Van't-Hoff-Str. 8, 14195 Berlin",
+    "coordinates": [52.4477971, 13.281953]
+  },
+  {
+    "id": 821,
+    "name": "Mensa Veggie № 1 - Die grüne Mensa",
+    "city": "Berlin",
+    "address": "Van't-Hoff-Str. 6, 14195 Berlin",
+    "coordinates": [52.446953, 13.2831591]
+  },
+  {
+    "id": 810,
+    "name": "Mensa FU Ihnestraße",
+    "city": "Berlin",
+    "address": "Ihnestraße 21, 14195 Berlin",
+    "coordinates": [52.4491376, 13.2772001]
+  },
+  {
+    "id": 50,
+    "name": "Mensa HU Oase Adlershof",
+    "city": "Berlin",
+    "address": "Rudower Chaussee 25, Haus 2",
+    "coordinates": [52.4293498430889, 13.5300493240356]
+  },
+  {
+    "id": 38,
+    "name": "Mensa EHB Teltower Damm",
+    "city": "Berlin",
+    "address": "Teltower Damm 118 - 122, 14167 Berlin",
+    "coordinates": [52.4235697906821, 13.2624292373657]
+  },
+  {
+    "id": 42,
+    "name": "Mensa FU Herrenhaus Düppel",
+    "city": "Berlin",
+    "address": "Oertzenweg 19b, 14163 Berlin",
+    "coordinates": [52.4298241204763, 13.2369375228882]
+  },
+  {
+    "id": 25,
+    "name": "Mensa ASH Berlin Hellersdorf",
+    "city": "Berlin",
+    "address": "Alice-Salomon-Platz 5, 12627 Berlin",
+    "coordinates": [52.5372747574638, 13.6059719324112]
+  }
+]
